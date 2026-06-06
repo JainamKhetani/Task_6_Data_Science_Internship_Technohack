@@ -294,7 +294,7 @@ The statistical insights generated from this task can support future:
 
 # 👩‍💻 14. Author
 
-### Khushi Kapatel  
+### Jainam Khetani  
 TechnoHacks Data Science Internship
 
 ---
